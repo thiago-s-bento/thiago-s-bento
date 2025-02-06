@@ -1,4 +1,4 @@
-## Hi there! I'm Thiago Bento! 👋
+## Hi there! Thiago Bento here! 👋
 
 - 🔭 I’m currently working on Project Analyst
 - 🌱 I’m currently learning CCNA
