@@ -3,6 +3,15 @@
 - 🔭 I’m currently working on Project Analyst
 - 🌱 I’m currently learning CCNA
 
+
+## Operating Systems 💻
+<div style="display: inline">
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" />  
+  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge" />  
+</div><br/>
+
+
+
 ## Languages e Tools 💻
 <div style="display: inline">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -11,11 +20,6 @@
 </div><br/>
 
 
-## Operating Systems 💻
-<div style="display: inline">
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge" />
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" />  
-</div><br/>
 
 ## GitHub Stats ⚡
 <div>
